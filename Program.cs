@@ -9,6 +9,8 @@ namespace Bld
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Test commit directly to HEAD");
+
+            Console.WriteLine("Test commit directly to HEAD with pull request");
         }
     }
 }
