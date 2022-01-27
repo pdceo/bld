@@ -11,6 +11,8 @@ namespace Bld
             Console.WriteLine("Test commit directly to HEAD");
 
             Console.WriteLine("Test commit directly to HEAD with pull request");
+
+            Console.WriteLine("Changes for issue1");
         }
     }
 }
